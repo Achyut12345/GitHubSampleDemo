@@ -1,2 +1,0 @@
-# MobilePOC
-Connect to device
